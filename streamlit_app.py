@@ -19,7 +19,7 @@ if btn:
         time.sleep(2)
     
     st.write(f"the Area= {area}")
-    st.sidebar.title('sidebar')'''
+    st.sidebar.title('sidebar')
 import streamlit as st
 import pandas as pd
 st.header('file upload app 2')
