@@ -1,4 +1,4 @@
-'import time
+import time
 import streamlit as st
 area=None
 st.header("Claculate Area")
